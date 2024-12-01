@@ -297,6 +297,33 @@ To https://github.com/dudung/rust
 2. Copy `00-new-note-again.md` to `content/posts/24/l`.
 4. Synchronize changes with remote repository.
 ```
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        content/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+$ git add content/posts/24/l/00-new-note-again.md
+
+$ git commit -a -m "new note"
+[main 11fcf71] new note
+ 1 file changed, 304 insertions(+)
+ create mode 100644 content/posts/24/l/00-new-note-again.md
+
+$ git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (7/7), 3.29 KiB | 1.64 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/dudung/rust
+   70294bd..11fcf71  main -> main
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
 

@@ -40,3 +40,9 @@ List:
 "A molecular dynamics study of albumin adsorption on montmorillonite" \
 [`7deh9`](https://osf.io/7deh9)
 [`DClYqb-yvgl`](https://www.instagram.com/p/DClYqb-yvgl)
+
+Temp:
+
++ `02-dec-2024` `1700` 20923003 Muhammad Abraar Abhirama `AP` \
+Recom for SINGA \
+[`nqd6t`](https://osf.io/nqd6t)

@@ -382,6 +382,30 @@ To https://github.com/dudung/rust
 2. Delete files and folder.
 3. Synchronize changes with remote repository.
 ```
+$ git add themes/default/content
+
+$ git commit -a -m "detele content examples"
+[main bcc4815] detele content examples
+ 1 file changed, 32 insertions(+), 11 deletions(-)
+
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+$ git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (7/7), 762 bytes | 381.00 KiB/s, done.
+Total 7 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/dudung/rust
+   ccf7891..bcc4815  main -> main
+
 ```
 
 ### start server

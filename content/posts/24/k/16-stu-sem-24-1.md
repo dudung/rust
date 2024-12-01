@@ -13,6 +13,9 @@ List of students seminar during 24-1 semester.
 
 List:
 
++ `02-dec-2024` `0900` `20923020` Adi Harjo Septiawan `UF` \
+"Electricity Sales Prediction Using Machine Learning: A Case Study at PT PLN's Main Distribution Unit in Jakarta Raya" \
+[`f8ry2`](https://osf.io/f8ry2) []()
 + `29-nov-2024` `1500` `20923304` Vinsensia Ferren `IM+SV` \
 "Wave damping using a combination of wood barriers and gabion structures" \
 [`ja2gq`](https://osf.io/ja2gq)

@@ -381,7 +381,7 @@ To https://github.com/dudung/rust
    85490f2..ccf7891  main -> main
 ```
 
-### delete conten examples
+### delete content examples
 1. Open `themes\default\content`.
 2. Delete files and folder.
 3. Synchronize changes with remote repository.

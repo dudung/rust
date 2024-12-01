@@ -23,3 +23,6 @@ ignoreErrors = ['error-missing-instagram-accesstoken']
   weight = 1
   identifier = 'tags'
   url = '/tags'
+
+# url https://chatgpt.com/share/674c42d8-7298-800a-9d2f-57af4c77c925 [2024120]
+paginate = 16

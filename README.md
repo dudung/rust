@@ -1,2 +1,2 @@
 # rust
-bridging understanding gap with bugs of bytes und grains
+raw, unstructured, spontaneous thoughts

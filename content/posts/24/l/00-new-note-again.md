@@ -84,8 +84,7 @@ To https://github.com/dudung/rust
 ```
 4. Visit https://github.com/dudung/rust to see the change.
 
-
-## create site
+### create site
 1. Assure the `rust` folder exists.
 ```
 $ ls rust
@@ -192,7 +191,6 @@ To https://github.com/dudung/rust
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
 
-
 ## copy layouts
 1. Open https://github.com/dudung/pasir/tree/main/blog/layouts.
 2. Create `layouts` folder in `rust` folder.
@@ -229,7 +227,6 @@ To https://github.com/dudung/rust
    8b51e6f..2d1feb8  main -> main
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
-
 
 ### edit setting
 1. Open `hugo.toml`.
@@ -327,7 +324,7 @@ To https://github.com/dudung/rust
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
 
-## copy others
+### copy others
 1. Copy also from `content` folder, `authors` folder, and `_index.md`.
 2. Change content of `_index.md` as follow.
 ```
@@ -356,6 +353,36 @@ To https://github.com/dudung/rust
 ```
 4. Visit https://github.com/dudung/rust to see the changes.
 
+### copy assets
+1. Open https://github.com/dudung/pasir/tree/main/blog/assets/.
+2. Copy all files and folders to `assets` folder.
+3. Synchronize changes with remote repository.
+```
+$ git add assets/css/main.css
+
+$ git commit -a -m "copy css"
+[main ccf7891] copy css
+ 1 file changed, 187 insertions(+)
+ create mode 100644 assets/css/main.css
+
+$ git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (5/5), 1.32 KiB | 1.32 MiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/dudung/rust
+   85490f2..ccf7891  main -> main
+```
+
+### delete conten examples
+1. Open `themes\default\content`.
+2. Delete files and folder.
+3. Synchronize changes with remote repository.
+```
+```
 
 ### start server
 1. Open cmd or console.
@@ -389,9 +416,3 @@ Press Ctrl+C to stop
 ```
 2. Open http://localhost:1313/rust/ to see the result.
 3. Stop the server or continue working.
-
-
-## copy assets
-1. Open https://github.com/dudung/pasir/tree/main/blog/assets/.
-2. Copy all files and folders to `assets` folder.
-3. Synchronize changes with remote repository.

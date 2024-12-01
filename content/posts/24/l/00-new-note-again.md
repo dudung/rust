@@ -327,5 +327,19 @@ To https://github.com/dudung/rust
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
 
+## copy others
+1. Copy also from `content` folder, `authors` folder, and `_index.md`.
+2. Change content of `_index.md` as follow.
+```
+raw, unstructured, spontaneous thoughts
+```
+3. Synchronize changes with remote repository.
+```
+```
+4. Visit https://github.com/dudung/rust to see the changes.
+
 
 ### start server
+1. Open cmd or console.
+```
+```

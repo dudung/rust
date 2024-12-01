@@ -185,3 +185,9 @@ blockquote {
   padding-right: 25px;
   color: #89a;
 }
+
+
+code {
+  white-space: pre-wrap;
+  word-break: break-all;
+}

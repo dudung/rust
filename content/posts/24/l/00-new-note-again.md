@@ -2,7 +2,7 @@
 title = 'new note again'
 date = 2024-12-01T06:43:06+07:00
 draft = false
-tags = ['note']
+tags = ['rust']
 authors = ['viridi']
 url = '24l00'
 +++
@@ -17,7 +17,10 @@ Lessons learned from [pasir](https://dudung.github.io/pasir) are only few as fol
 1. Filename naming convention is `yy/m/nn-note-abbrv-name.md` and link to this note is `24k00`, where `yy=24` for `2024`, `m=k` for `Dec`, and `00` for the first note. \
 `a=Jan`, `b=Feb`, `c=Mar`, `d=Apr`, `e=May`, `f=Jun`, `g=Jul`, `h=Aug`, `i=Sep`, `j=Oct`, `k=Nov`, `l=Dec`.
 2. Previous notes to move to new note or blog is listed in https://github.com/dudung/pasir/issues/1.
+3. Copy content from [pasir](https://dudung.github.io/pasir) to [rust](https://dudung.github.io/rust).
 
+## create new hugo site
+Following steps are performed.
 
 ### create repository
 1. Visit https://github.com/new.
@@ -191,7 +194,7 @@ To https://github.com/dudung/rust
 ```
 5. Visit https://github.com/dudung/rust to see the changes.
 
-## copy layouts
+### copy layouts
 1. Open https://github.com/dudung/pasir/tree/main/blog/layouts.
 2. Create `layouts` folder in `rust` folder.
 3. Copy all files and folder from pasir to rust.
@@ -382,13 +385,17 @@ To https://github.com/dudung/rust
 2. Delete files and folder.
 3. Synchronize changes with remote repository.
 ```
-$ git add themes/default/content
+$ git commit -a -m "detele content examples"
+[main 92c9587] detele content examples
+ 6 files changed, 48 deletions(-)
+ delete mode 100644 themes/default/content/_index.md
+ delete mode 100644 themes/default/content/posts/_index.md
+ delete mode 100644 themes/default/content/posts/post-1.md
+ delete mode 100644 themes/default/content/posts/post-2.md
+ delete mode 100644 themes/default/content/posts/post-3/bryce-canyon.jpg
+ delete mode 100644 themes/default/content/posts/post-3/index.md
 
 $ git commit -a -m "detele content examples"
-[main bcc4815] detele content examples
- 1 file changed, 32 insertions(+), 11 deletions(-)
-
-$ git status
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
@@ -396,16 +403,15 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 
 $ git push
-Enumerating objects: 13, done.
-Counting objects: 100% (13/13), done.
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
 Delta compression using up to 16 threads
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (7/7), 762 bytes | 381.00 KiB/s, done.
-Total 7 (delta 3), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 336 bytes | 336.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/dudung/rust
-   ccf7891..bcc4815  main -> main
-
+   c104bf8..92c9587  main -> main
 ```
 
 ### start server

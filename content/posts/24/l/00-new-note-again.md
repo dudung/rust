@@ -360,4 +360,38 @@ To https://github.com/dudung/rust
 ### start server
 1. Open cmd or console.
 ```
+Microsoft Windows [Version 10.0.22631.4460]
+(c) Microsoft Corporation. All rights reserved.
+
+M:\rust>hugo server
+Watching for changes in M:\rust\{archetypes,assets,content,data,i18n,layouts,static,themes}
+Watching for config changes in M:\rust\hugo.toml, M:\rust\themes\default\hugo.toml
+Start building sites …
+hugo v0.139.3-2f6864387cd31b975914e8373d4bf38bddbd47bc+extended windows/amd64 BuildDate=2024-11-29T15:36:56Z VendorInfo=gohugoio
+
+
+                   | EN
+-------------------+-----
+  Pages            | 25
+  Paginator pages  |  0
+  Non-page files   |  1
+  Static files     |  1
+  Processed images |  0
+  Aliases          |  0
+  Cleaned          |  0
+
+Built in 128 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/rust/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
 ```
+2. Open http://localhost:1313/rust/ to see the result.
+3. Stop the server or continue working.
+
+
+## copy assets
+1. Open https://github.com/dudung/pasir/tree/main/blog/assets/.
+2. Copy all files and folders to `assets` folder.
+3. Synchronize changes with remote repository.

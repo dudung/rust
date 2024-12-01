@@ -170,9 +170,8 @@ table tr:nth-child(even) {
   font-size: 90%;
   background: #f4f4f4;
   border: 1px solid #ccc;
-  #width: auto;
-  #height: auto;
-  width: 100px;
+  height: auto;
+  width: auto;
 }
 .posts-box-container {
   text-align: left;
@@ -194,7 +193,6 @@ pre>code {
 
 // url https://chatgpt.com/share/674c42d8-7298-800a-9d2f-57af4c77c925 [2024120]
 .pagination-container {
-  margin-top: 40px;
 }
 
 .pagination {
@@ -202,7 +200,7 @@ pre>code {
   justify-content: center;
   align-items: center;
   gap: 8px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .pagination a {
@@ -231,7 +229,7 @@ pre>code {
 .pagination .current,
 .pagination .page,
 .pagination .next {
-  font-size: 0.9rem; /* Smaller font size */
+  font-size: 0.8rem; /* Smaller font size */
   #color: #888; /* Subtle color */
   padding: 0 5px; /* Optional padding */
 }

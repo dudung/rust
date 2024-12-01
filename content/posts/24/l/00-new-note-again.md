@@ -19,6 +19,8 @@ Lessons learned from [pasir](https://dudung.github.io/pasir) are only few as fol
 2. Previous notes to move to new note or blog is listed in https://github.com/dudung/pasir/issues/1.
 3. Copy content from [pasir](https://dudung.github.io/pasir) to [rust](https://dudung.github.io/rust).
 4. Transfer issue to https://github.com/dudung/rust/issues/1.
+5. Change landing page CSS with help of GPT-4o [`674c42d8-7298-800a-9d2f-57af4c77c925`](https://chatgpt.com/share/674c42d8-7298-800a-9d2f-57af4c77c925).
+6. Consider for [bug](https://dudung.github.io/bug), wheter change note filename or preserve the original, before new convention. Not yet decided.
 
 ## create new hugo site
 Following steps are performed.

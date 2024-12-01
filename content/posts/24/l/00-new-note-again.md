@@ -496,7 +496,7 @@ To https://github.com/dudung/rust
 7. Click Commit changes..., the green button on upper right.
 8. Click Commit changes.
 9. Visit https://dudung.github.io/rust/.
-10 Update local files.
+10. Update local files.
 ```
 $ git pull
 remote: Enumerating objects: 6, done.

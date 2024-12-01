@@ -485,3 +485,22 @@ remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
 To https://github.com/dudung/rust
    92c9587..0c7a844  main -> main
 ```
+
+### set github action
+1. Go to https://github.com/dudung/rust/settings/pages.
+2. Under Build and deployment, change Source to GitHub Actions.
+3. Click browser all workflows.1. Visit https://github.com/dudung/rust/actions/new.
+4. Type hugo and press enter.
+5. Choose Hugo By GitHub Actions, Package a Hugo site.
+6. Click Configure.
+7. Click Commit changes..., the green button on upper right.
+8. Click Commit changes.
+9. Visit https://dudung.github.io/rust/.
+
+### add website to repository page
+1. Visit https://github.com/dudung/rust.
+2. Click icon on the far right on About.
+3. Check Use your GitHub Pages website.
+4. Add topics, e.g. thoughts, ideas, blogs, or other related topics.
+5. Uncheck Releases, Packages, Deployments, or keep them checked.
+6. Click Save changes, green button on the lower right.

@@ -496,6 +496,21 @@ To https://github.com/dudung/rust
 7. Click Commit changes..., the green button on upper right.
 8. Click Commit changes.
 9. Visit https://dudung.github.io/rust/.
+10 Update local files.
+```
+$ git pull
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 5 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (5/5), 1.91 KiB | 102.00 KiB/s, done.
+From https://github.com/dudung/rust
+   c64dccb..6f05888  main       -> origin/main
+Merge made by the 'ort' strategy.
+ .github/workflows/hugo.yml | 74 ++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 74 insertions(+)
+ create mode 100644 .github/workflows/hugo.yml
+```
 
 ### add website to repository page
 1. Visit https://github.com/dudung/rust.

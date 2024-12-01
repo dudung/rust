@@ -6,7 +6,7 @@ tags = ['note']
 authors = ['viridi']
 url = '24l00'
 +++
-Create a new note again in a new static blog.
+Create a new note again in a new static blog with Hugo.
 
 <!--more-->
 

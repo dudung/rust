@@ -335,6 +335,24 @@ raw, unstructured, spontaneous thoughts
 ```
 3. Synchronize changes with remote repository.
 ```
+$ git add content/authors content/_index.md
+
+$ git commit -a -m "update authors and others"
+[main a575dfe] update authors and others
+ 3 files changed, 20 insertions(+)
+ create mode 100644 content/_index.md
+ create mode 100644 content/authors/viridi/_index.md
+
+$ git push
+Enumerating objects: 17, done.
+Counting objects: 100% (17/17), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (11/11), 940 bytes | 470.00 KiB/s, done.
+Total 11 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/dudung/rust
+   ca5d1b1..a575dfe  main -> main
 ```
 4. Visit https://github.com/dudung/rust to see the changes.
 

@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'rust'
 theme = 'default'
 
+enableEmoji = true
+
 ignoreErrors = ['error-missing-instagram-accesstoken']
 
 [taxonomies]

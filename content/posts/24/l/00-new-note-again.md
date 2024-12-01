@@ -2,7 +2,7 @@
 title = 'new note again'
 date = 2024-12-01T06:43:06+07:00
 draft = false
-tags = ['rust']
+tags = ['note']
 authors = ['viridi']
 url = '24l00'
 +++
@@ -446,3 +446,41 @@ Press Ctrl+C to stop
 ```
 2. Open http://localhost:1313/rust/ to see the result.
 3. Stop the server or continue working.
+
+### copy from pasir
+```
+$ git add content/posts/24/k
+
+$ git commit -a -m "copy content from pasir"
+[main 0c7a844] copy content from pasir
+ 19 files changed, 1036 insertions(+), 15 deletions(-)
+ create mode 100644 content/posts/24/k/00-intro-to-pasir.md
+ create mode 100644 content/posts/24/k/01-random-walk-intro.md
+ create mode 100644 content/posts/24/k/02-md-pa6-cf-compos.md
+ create mode 100644 content/posts/24/k/03-rbl-refine-sk5010-2024-1.md
+ create mode 100644 content/posts/24/k/04-short-intro-to-ml.md
+ create mode 100644 content/posts/24/k/05-perceptron-intro.md
+ create mode 100644 content/posts/24/k/06-rbl-progress-sk5010-2024-1.md
+ create mode 100644 content/posts/24/k/07-model-short-intro.md
+ create mode 100644 content/posts/24/k/08-sk5010-rbl-w-report-1.md
+ create mode 100644 content/posts/24/k/09-reasons-to-write.md
+ create mode 100644 content/posts/24/k/10-rand-walk-msd-prob.md
+ create mode 100644 content/posts/24/k/11-futher-intro-perceptron.md
+ create mode 100644 content/posts/24/k/12-stat-mech-complex-sys.md
+ create mode 100644 content/posts/24/k/13-fi2151-2024-1.md
+ create mode 100644 content/posts/24/k/14-binary-and-plot2-pasir.md
+ create mode 100644 content/posts/24/k/15-list-of-slides.md
+ create mode 100644 content/posts/24/k/16-stu-sem-24-1.md
+ create mode 100644 content/posts/24/k/17-grit-ikigai-etc.md
+
+$ git push
+Enumerating objects: 32, done.
+Counting objects: 100% (32/32), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (24/24), done.
+Writing objects: 100% (26/26), 24.50 KiB | 2.45 MiB/s, done.
+Total 26 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/dudung/rust
+   92c9587..0c7a844  main -> main
+```

@@ -1,7 +1,7 @@
 +++
 date = '2024-12-02T04:47:32+07:00'
 draft = false
-title = 'a trip prep'
+title = 'upd trip prep'
 math = true
 tags = ['trip']
 authors = ['viridi']

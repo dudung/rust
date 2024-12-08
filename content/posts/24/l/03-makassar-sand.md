@@ -11,6 +11,8 @@ Note on beaches information where sand samples are collected during the trip to 
 
 <!--more-->
 
+Info:
+
 0. Pantai Kuri Indah, Nisombalia, Marusu, Maros, Sulawesi Selatan \
 `fsc` AS+X \
 `dms` 5°01'38.8"S 119°28'03.9"E \
@@ -38,3 +40,7 @@ Note on beaches information where sand samples are collected during the trip to 
 `sta` collected
 
 The abbreviations are fsc (field sample collector) dms (degrees minutes seconds), and url (uninform resource locator). This activity is conducted with help from Ahmad Swandi and his colleague Y as navigator.
+
+Sketch:
+
+- GPT-4o, "Lumpur Concept Exploration", ChatGPT, url https://chatgpt.com/share/67556ee9-4094-800a-bfad-ff387ebc1a2f [20241208].

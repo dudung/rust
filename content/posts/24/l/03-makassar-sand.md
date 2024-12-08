@@ -31,7 +31,7 @@ Note on beaches information where sand samples are collected during the trip to 
 `dms` 5°12'13.1"S 119°22'56.7"E \
 `url` https://maps.app.goo.gl/TPaqW8N5853h3rYL6 \
 `sta` collected
-4. Pantai Bosowa Tanjung, Tamalate, Tanjung Merdeka, Makassar, Sulawesi Selatan \
+4. Pantai Bosowa Tanjung, Tanjung Merdeka, Tamalate, Makassar, Sulawesi Selatan \
 `fsc` SV+AS \
 `dms` 5°10'01.2"S 119°23'14.7"E \
 `url` https://maps.app.goo.gl/b6MA9mvq8siH6GT66 \

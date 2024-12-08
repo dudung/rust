@@ -37,4 +37,4 @@ Note on beaches information where sand samples are collected during the trip to 
 `url` https://maps.app.goo.gl/b6MA9mvq8siH6GT66 \
 `sta` collected
 
-The abbreviations are fsc (field sample collector) dms (degrees minutes seconds), and url (uninform resource locator). This activity is conducted with help from Ahmad Swandi and his colleague as navigator.
+The abbreviations are fsc (field sample collector) dms (degrees minutes seconds), and url (uninform resource locator). This activity is conducted with help from Ahmad Swandi and his colleague Y as navigator.

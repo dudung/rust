@@ -7,7 +7,7 @@ tags = ['list']
 authors = ['viridi']
 url = '24k15'
 +++
-List of slides to achieve a presentation with exact 100 slides.
+List of slides to achieve a presentation with 100 slides (or more).
 
 <!--more-->
 
@@ -15,17 +15,19 @@ List:
 
 8
 
-80. `28-nov-2024 v5` [`jftmw`](https://osf.io/jftmw)  `pasir_intro_feat2_class2.pdf` `100` :100: \
+80. `09-dec-2024` v3 [`edwnq`](https://osf.io/edwnq) `python_package_lumpur.pdf` `120` :100:+ \
+"Create and upload Python package: lumpur as an example".
+81. `28-nov-2024 v5` [`jftmw`](https://osf.io/jftmw)  `pasir_intro_feat2_class2.pdf` `100` :100: \
 "Intro to Pasir0.0.5: Binary classification data with two features".
-81. `24-nov-2024 v0` [`prc56`](https://osf.io/prc56) `keras_hands_on_intro.pdf` `14` \
+82. `24-nov-2024 v0` [`prc56`](https://osf.io/prc56) `keras_hands_on_intro.pdf` `14` \
 "Hands-on intro to Keras: With Some additional info".
-82. `21-nov-2024 v1` [`h8rz3`](https://osf.io/h8rz3) `fi2151_surv_discuss.pdf` `40` \
+83. `21-nov-2024 v1` [`h8rz3`](https://osf.io/h8rz3) `fi2151_surv_discuss.pdf` `40` \
 "FI2151 2024-1 survey discussion: Review current learning process in the class".
-83. `21-nov-2024 v0` [`zpyrq`](https://osf.io/zpyrq) `hands_on_practice_in_python.pdf` `15` \
+84. `21-nov-2024 v0` [`zpyrq`](https://osf.io/zpyrq) `hands_on_practice_in_python.pdf` `15` \
 "Hands-on practice in Python: For machine learning in physics".
-84. `20-nov-2024 v1` [`p4ykz`](https://osf.io/p4ykz) `multi_dim_viz.pdf` `27` \
+85. `20-nov-2024 v1` [`p4ykz`](https://osf.io/p4ykz) `multi_dim_viz.pdf` `27` \
 "Multidimensional visualization: Static and dynamic approaches".
-85. `19-nov-2024 v7` [`9vxfz`](https://osf.io/9vxfz) `perceptron_learning_intro.pdf` `100` :100: \
+86. `19-nov-2024 v7` [`9vxfz`](https://osf.io/9vxfz) `perceptron_learning_intro.pdf` `100` :100: \
 "Further intro to perceptron: Datasets generation, classification, and learning".
 
 7
@@ -55,7 +57,7 @@ List:
 
 60. `30-oct-2024 v0` [`hj9mz`](https://osf.io/hj9mz) `launch_ansys_offline.pdf` `33` \
 "Launch Ansys offlineon Windows 11: Experiment on Ansys Workbench".
-61. `30-oct-2024 v2` [`63ajt`](https://osf.io/63ajt) `start_learning_ansys_fluent.pdf` `122` \
+61. `30-oct-2024 v2` [`63ajt`](https://osf.io/63ajt) `start_learning_ansys_fluent.pdf` `122` :100:+ \
 "Start learning Ansys Fluenton Windows: A training on Ansys Fluent and Mechanical Packages".
 62. `30-oct-2024 v2` [`p95tw`](https://osf.io/p95tw) `viz_in_sci_241.pdf` `66` \
 "Visualization in science: A Reflection before midterm of a course in 24-1".
@@ -82,7 +84,7 @@ List:
 "Intro to Matlotlibline plot: Create line graph with Python".
 52. `28-sep-2024 v4` [`54ngr`](https://osf.io/54ngr) `python_basics_jupyter_notebook.pdf` `45` \
 "Python basics and more: Examples with Jupyter notebook + Gist".
-53. `23-sep-2024 v2` [`6vyau`](https://osf.io/6vyau) `unlimited_visualization_ideas.pdf` `109` \
+53. `23-sep-2024 v2` [`6vyau`](https://osf.io/6vyau) `unlimited_visualization_ideas.pdf` `109` :100:+\
 "Unlimited visualization ideas: Some examples".
 54. `20-sep-2024 v3` [`9ukby`](https://osf.io/9ukby) `nightingale_rose_diagram_coxcomb_chart.pdf` `53` \
 "Visualization with coxcomb chart: Florence Nightingale’s rose diagram".
@@ -99,7 +101,7 @@ List:
 
 4
 
-40. `14-aug-2024 v3` [`afsek`](https://osf.io/afsek) `pengenalan_pemanfaatan_data_lake.pdf` `122` \
+40. `14-aug-2024 v3` [`afsek`](https://osf.io/afsek) `pengenalan_pemanfaatan_data_lake.pdf` `122` :100:+\
 "Data lake dengan Python dan Jupyter Notebook Pengenalandan PemanfaatanSederhananya".
 41. `14-aug-2024 v2b` [`cb9gj`](https://osf.io/cb9gj) `memanfaatkan_kekuatan_data_lake.pdf` `54` \
 "Memanfaatkan Kekuatan Data Lake; Pendekatan Lintas Disiplin terhadap Manajemen File dan Data".
@@ -177,7 +179,7 @@ List:
 
 0. `26-feb-2024 v0` [`p8f43`](https://osf.io/p8f43) `pre_nuc_data_ml.pdf` `v0` `15` \
 "Nuclear data with ML" An intro for Riset Kolaborasi Indonesia".
-1. `25-feb-2024 v9` [`zqkv9`](https://osf.io/zqkv9) `intro_descriptive_statistics.pdf` `116` \
+1. `25-feb-2024 v9` [`zqkv9`](https://osf.io/zqkv9) `intro_descriptive_statistics.pdf` `116` :100:+ \
 "Descriptive statistics: An intro: Characterize distributions with Python".
 2. `25-feb-2024 v0` [`p4xnw`](https://osf.io/p4xnw) `econ_study.pdf` `9` \
 "Economics of surrounding cities: Defining variables, formulas, and models".

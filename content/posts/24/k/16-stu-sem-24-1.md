@@ -13,9 +13,19 @@ List of students seminar during 24-1 semester.
 
 Do:
 
-- `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
++ `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
 "Penerapan Kuantum Neural Network untuk Prediksi Efisiensi Senyawa Inhibitor Korosi" \
 [`qhdrm`](https://osf.io/qhdrm)
++ `10-dec-2024` `1000` `20923011` Rafi Prayoga Dhenanta `APS+FO` \
+"Aplikasi Teori Permainan (Game Theory) Dalam Implementasi Ekonomi Hijau Pada Bidang Produksi" \
+[`ktbgx`](https://osf.io/ktbgx)
+
+
+Archiving:
+
++ `09-dec-2024` `1000` `20922320` Aditya Adiaksa `SV`
++ `09-dec-2024` `1130` `20922319` Zainuddin `SV`
++ `09-dec-2024` `1300` `20922307` Ahmad Mushawir `SV`
 
 
 Done:

@@ -30,3 +30,7 @@ Info:
   - GitHub Action 91
   - Create new release 100
   - Closing 112
+
+Sketch:
+
+- [functional_api_hyperline_features_2.ipynb](https://github.com/dudung/py-jupyter-nb/blob/main/src/import/external/keras/functional_api_hyperline_features_2.ipynb) on py-jupyter-nb about keras.

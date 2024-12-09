@@ -11,7 +11,14 @@ List of students seminar during 24-1 semester.
 
 <!--more-->
 
-List:
+Do:
+
+- `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
+"Penerapan Kuantum Neural Network untuk Prediksi Efisiensi Senyawa Inhibitor Korosi" \
+[`qhdrm`](https://osf.io/qhdrm)
+
+
+Done:
 
 + `02-dec-2024` `0900` `20923020` Adi Harjo Septiawan `UF` \
 "Electricity Sales Prediction Using Machine Learning: A Case Study at PT PLN's Main Distribution Unit in Jakarta Raya" \

@@ -20,19 +20,17 @@ Do:
 "Aplikasi Teori Permainan (Game Theory) Dalam Implementasi Ekonomi Hijau Pada Bidang Produksi" \
 [`ktbgx`](https://osf.io/ktbgx) [`DDYrYe9yT-q`](https://www.instagram.com/p/DDYrYe9yT-q)
 
-
 Archiving:
 
-+ `09-dec-2024` `1000` `20922320` Aditya Adiaksa `SV` \
-"Prediksi Sambaran Petir dan Analisa Gangguan Petir pada Jalur Transmisi Listrik dengan Pendekatan Machine Learning" \
-[`snfve`](https://osf.io/snfve) [`DDV40U1SOZq`](https://www.instagram.com/p/DDV40U1SOZq)
-+ `09-dec-2024` `1130` `20922319` Zainuddin `SV` \
-"Mutasi Penempatan Pegawai Pemimpin Unit menggunakan Metode EMCE" \
-[`yrpb3`](https://osf.io/yrpb3) [`DDWCb7xyW3G`](https://www.instagram.com/p/DDWCb7xyW3G)
 + `09-dec-2024` `1300` `20922307` Ahmad Mushawir `SV` \
 "Pengembangan Model Rekomendasi Pengadaan Suku Cadang Pembangkit Listrik Berbasis Time-Series Dengan Menggunakan Machine Learning" \
 [`3x67v`](https://osf.io/3x67v) [`DDWNTiFSgAY`](https://www.instagram.com/p/DDWNTiFSgAY)
-
++ `09-dec-2024` `1130` `20922319` Zainuddin `SV` \
+"Mutasi Penempatan Pegawai Pemimpin Unit menggunakan Metode EMCE" \
+[`yrpb3`](https://osf.io/yrpb3) [`DDWCb7xyW3G`](https://www.instagram.com/p/DDWCb7xyW3G)
++ `09-dec-2024` `1000` `20922320` Aditya Adiaksa `SV` \
+"Prediksi Sambaran Petir dan Analisa Gangguan Petir pada Jalur Transmisi Listrik dengan Pendekatan Machine Learning" \
+[`snfve`](https://osf.io/snfve) [`DDV40U1SOZq`](https://www.instagram.com/p/DDV40U1SOZq)
 
 Done:
 

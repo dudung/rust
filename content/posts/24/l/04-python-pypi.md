@@ -5,7 +5,7 @@ title = 'python pypi'
 math = false
 tags = ['slide']
 authors = ['viridi']
-url = '24l05'
+url = '24l04'
 +++
 Steps how to create, test, build, and upload Python package to PyPI using a workflow from GitHub Actions.
 

@@ -2,7 +2,7 @@
 date = '2024-12-03T19:57:44+07:00'
 draft = false
 title = 'djamal ag res'
-math = true
+math = false
 tags = ['res']
 authors = ['viridi']
 url = '24l02'

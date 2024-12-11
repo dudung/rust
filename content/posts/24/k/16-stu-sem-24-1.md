@@ -16,12 +16,21 @@ Do:
 + `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
 "Penerapan Kuantum Neural Network untuk Prediksi Efisiensi Senyawa Inhibitor Korosi" \
 [`qhdrm`](https://osf.io/qhdrm)
++ `11-dec-2024` `1400` `20923324` Listyani Nirmalasari `MIA` \
+"Klasifikasi Teks pada Data Transaksi Keuangan untuk Menentukan Komponen Biaya Pokok Penyediaan Tenaga Listrik dengan Menggunakan Machine Learning" \
+[`fbezq`](https://osf.io/fbezq)
++ `11-dec-2024` `1300` `20922308` Muhammad Ghafur Abdulah Winata Santana `MIA` \
+[`s6kym`](https://osf.io/s6kym)
+"Model Prediktif Berbasis Random Forest untuk Optimasi Pengelolaan Kesehatan Aset di Pembangkit Listrik" \
++ `11-dec-2024` `0730` `20922327` Dyah Puspita Sari Nilam Utami `MIA` \
+"Prediksi Keterlambatan Pembayaran Rekening Listrik Pelanggan dengan Pendekatan Machine Learning" \
+[`6mgkc`](https://osf.io/6mgkc)
+
+Done:
+
 + `10-dec-2024` `1100` `20923011` Rafi Prayoga Dhenanta `APS+FO` \
 "Aplikasi Teori Permainan (Game Theory) Dalam Implementasi Ekonomi Hijau Pada Bidang Produksi" \
 [`ktbgx`](https://osf.io/ktbgx) [`DDYrYe9yT-q`](https://www.instagram.com/p/DDYrYe9yT-q)
-
-Archiving:
-
 + `09-dec-2024` `1300` `20922307` Ahmad Mushawir `SV` \
 "Pengembangan Model Rekomendasi Pengadaan Suku Cadang Pembangkit Listrik Berbasis Time-Series Dengan Menggunakan Machine Learning" \
 [`3x67v`](https://osf.io/3x67v) [`DDWNTiFSgAY`](https://www.instagram.com/p/DDWNTiFSgAY)
@@ -31,9 +40,6 @@ Archiving:
 + `09-dec-2024` `1000` `20922320` Aditya Adiaksa `SV` \
 "Prediksi Sambaran Petir dan Analisa Gangguan Petir pada Jalur Transmisi Listrik dengan Pendekatan Machine Learning" \
 [`snfve`](https://osf.io/snfve) [`DDV40U1SOZq`](https://www.instagram.com/p/DDV40U1SOZq)
-
-Done:
-
 + `02-dec-2024` `0900` `20923020` Adi Harjo Septiawan `UF` \
 "Electricity Sales Prediction Using Machine Learning: A Case Study at PT PLN's Main Distribution Unit in Jakarta Raya" \
 [`f8ry2`](https://osf.io/f8ry2) [`DDDxrgfSEkL`](https://www.instagram.com/p/DDDxrgfSEkL)

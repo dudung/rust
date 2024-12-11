@@ -13,21 +13,22 @@ List of students seminar during 24-1 semester.
 
 Do:
 
-+ `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
-"Penerapan Kuantum Neural Network untuk Prediksi Efisiensi Senyawa Inhibitor Korosi" \
-[`qhdrm`](https://osf.io/qhdrm)
-+ `11-dec-2024` `1400` `20923324` Listyani Nirmalasari `MIA` \
-"Klasifikasi Teks pada Data Transaksi Keuangan untuk Menentukan Komponen Biaya Pokok Penyediaan Tenaga Listrik dengan Menggunakan Machine Learning" \
-[`fbezq`](https://osf.io/fbezq)
-+ `11-dec-2024` `1300` `20922308` Muhammad Ghafur Abdulah Winata Santana `MIA` \
-"Model Prediktif Berbasis Random Forest untuk Optimasi Pengelolaan Kesehatan Aset di Pembangkit Listrik" \
-[`s6kym`](https://osf.io/s6kym)
-+ `11-dec-2024` `0730` `20922327` Dyah Puspita Sari Nilam Utami `MIA` \
-"Prediksi Keterlambatan Pembayaran Rekening Listrik Pelanggan dengan Pendekatan Machine Learning" \
-[`6mgkc`](https://osf.io/6mgkc)
++ ..
 
 Done:
 
++ `11-dec-2024` `1530` `20923305` Ikhsan Mochammad Noor `TDKW+ALI` \
+"Penerapan Kuantum Neural Network untuk Prediksi Efisiensi Senyawa Inhibitor Korosi" \
+[`qhdrm`](https://osf.io/qhdrm) [`DDbouCPS7bm`](https://www.instagram.com/p/DDbouCPS7bm)
++ `11-dec-2024` `1400` `20923324` Listyani Nirmalasari `MIA` \
+"Klasifikasi Teks pada Data Transaksi Keuangan untuk Menentukan Komponen Biaya Pokok Penyediaan Tenaga Listrik dengan Menggunakan Machine Learning" \
+[`fbezq`](https://osf.io/fbezq) [`DDbefoty9RB`](https://www.instagram.com/p/DDbefoty9RB)
++ `11-dec-2024` `1300` `20922308` Muhammad Ghafur Abdulah Winata Santana `MIA` \
+"Model Prediktif Berbasis Random Forest untuk Optimasi Pengelolaan Kesehatan Aset di Pembangkit Listrik" \
+[`s6kym`](https://osf.io/s6kym) [`DDbbUKSya0r`](https://www.instagram.com/p/DDbbUKSya0r)
++ `11-dec-2024` `0730` `20922327` Dyah Puspita Sari Nilam Utami `MIA` \
+"Prediksi Keterlambatan Pembayaran Rekening Listrik Pelanggan dengan Pendekatan Machine Learning" \
+[`6mgkc`](https://osf.io/6mgkc) [`DDaw2EST_hB`](https://www.instagram.com/p/DDaw2EST_hB)
 + `10-dec-2024` `1100` `20923011` Rafi Prayoga Dhenanta `APS+FO` \
 "Aplikasi Teori Permainan (Game Theory) Dalam Implementasi Ekonomi Hijau Pada Bidang Produksi" \
 [`ktbgx`](https://osf.io/ktbgx) [`DDYrYe9yT-q`](https://www.instagram.com/p/DDYrYe9yT-q)

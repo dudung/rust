@@ -13,7 +13,15 @@ List of students seminar during 24-1 semester.
 
 Do:
 
-+ ..
++ `17-dec-2024` `1200` `20923017` Donny Zaviar Rizky `SH` \
+"Klasifikasi Health Index Gardu Distribusi menggunakan Analisa Supervised Learning dengan Metode Support Vector Machine Studi Kasus pada PLN Unit Pelaksana Pelayanan Pelanggan (UP3) Ciracas" \
+[`zcgj6`](https://osf.io/zcgj6)
++ `17-dec-2024` `1100` `20923015` Hafizh Saftian `SH` \
+"Analisa Pengaruh Hasil Assesment Kabel Terhadap Keandalan Penyulang 20 kV Melalui Pembentukan Model Health Index Menggunakan Pendekatan Fuzzy Logic" \
+[`dp4r3`](https://osf.io/dp4r3)
++ `13-dec-2024` `0900` Kahfi Rizky Kosasih `SWI+SV` \
+"Integrasi CNN dan Proses Gaussian Mendalam untuk Deteksi Covid-19 Berdasrkan Citra Medis X-Ray" \
+[`sn83g`](https://osf.io/sn83g)
 
 Done:
 

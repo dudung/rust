@@ -19,9 +19,18 @@ Do:
 + `17-dec-2024` `1100` `20923015` Hafizh Saftian `SH` \
 "Analisa Pengaruh Hasil Assesment Kabel Terhadap Keandalan Penyulang 20 kV Melalui Pembentukan Model Health Index Menggunakan Pendekatan Fuzzy Logic" \
 [`dp4r3`](https://osf.io/dp4r3)
-+ `13-dec-2024` `0900` Kahfi Rizky Kosasih `SWI+SV` \
++ `13-dec-2024` `1330` `20922313` Akhmad Faeda Insani `SV` \
+"" \
+[]()
++ `13-dec-2024` `0900` `20924006` Kahfi Rizky Kosasih `SWI+SV` \
 "Integrasi CNN dan Proses Gaussian Mendalam untuk Deteksi Covid-19 Berdasrkan Citra Medis X-Ray" \
 [`sn83g`](https://osf.io/sn83g)
++ `12-dec-2024` `1400` `20922325` Galih Arisona `UF` \
+""\
+[]()
++ `12-dec-2024` `1300` `20922321` Alief Pascal Taruna `UF` \
+""\
+[]()
 
 Done:
 

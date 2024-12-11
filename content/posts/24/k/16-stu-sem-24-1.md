@@ -20,8 +20,8 @@ Do:
 "Klasifikasi Teks pada Data Transaksi Keuangan untuk Menentukan Komponen Biaya Pokok Penyediaan Tenaga Listrik dengan Menggunakan Machine Learning" \
 [`fbezq`](https://osf.io/fbezq)
 + `11-dec-2024` `1300` `20922308` Muhammad Ghafur Abdulah Winata Santana `MIA` \
-[`s6kym`](https://osf.io/s6kym)
 "Model Prediktif Berbasis Random Forest untuk Optimasi Pengelolaan Kesehatan Aset di Pembangkit Listrik" \
+[`s6kym`](https://osf.io/s6kym)
 + `11-dec-2024` `0730` `20922327` Dyah Puspita Sari Nilam Utami `MIA` \
 "Prediksi Keterlambatan Pembayaran Rekening Listrik Pelanggan dengan Pendekatan Machine Learning" \
 [`6mgkc`](https://osf.io/6mgkc)

@@ -25,12 +25,12 @@ Do:
 + `13-dec-2024` `0900` `20924006` Kahfi Rizky Kosasih `SWI+SV` \
 "Integrasi CNN dan Proses Gaussian Mendalam untuk Deteksi Covid-19 Berdasrkan Citra Medis X-Ray" \
 [`sn83g`](https://osf.io/sn83g)
-+ `12-dec-2024` `1400` `20922325` Galih Arisona `UF` \
-""\
-[]()
-+ `12-dec-2024` `1300` `20922321` Alief Pascal Taruna `UF` \
-""\
-[]()
++ `12-dec-2024` `1400` `20922325` Galih Arisona `DI` \
+"Klasifikasi Berbasis Support Vector Machine untuk Penentuan Target Oeprasi Penertiban Pemakaian Tenaga Listrik dengan Meter Konvensional:  Studi Kasus Pelanggan Tarif Industri dan Bisnis PT PLN (Persero)" \
+[`6yucn`](https://osf.io/6yucn) [`DDeAhSdyKOi`](https://www.instagram.com/p/DDeAhSdyKOi)
++ `12-dec-2024` `1300` `20922321` Alief Pascal Taruna `DI` \
+"Penerapan Klasifikasi Machine Learning untuk Deteksi Pencurian Listrik pada Pelanggan Pascabayar Rumah Tangga dengan Meter Tradisional: Studi pada Unit Layanan Pelanggan dengan Kasus Tertinggi di PLN" \
+[`tn2pg`](https://osf.io/tn2pg) [`DDd7Q9HyX14`](https://www.instagram.com/p/DDd7Q9HyX14)
 
 Done:
 

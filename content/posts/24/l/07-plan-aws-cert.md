@@ -5,7 +5,7 @@ title = 'plan aws cert'
 math = false
 tags = ['res']
 authors = ['viridi']
-url = '24l06'
+url = '24l07'
 +++
 Note on plan of AWS certifications related to PPKM-FI-FMIPA-2024 led by Dr. Acep Purqon.
 

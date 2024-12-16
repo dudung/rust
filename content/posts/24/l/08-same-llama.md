@@ -5,7 +5,7 @@ title = 'same llama 🦙'
 math = false
 tags = ['list']
 authors = ['viridi']
-url = '24l07'
+url = '24l08'
 +++
 List while assigned by same llama to visit various universities around the country.
 

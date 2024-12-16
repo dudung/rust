@@ -1,13 +1,13 @@
 +++
 date = '2024-12-16T10:57:11+07:00'
 draft = false
-title = 'same lama'
+title = 'same llama 🦙'
 math = false
 tags = ['list']
 authors = ['viridi']
 url = '24l07'
 +++
-List while assigned by same lama to visit various universities around the country.
+List while assigned by same llama to visit various universities around the country.
 
 <!--more-->
 

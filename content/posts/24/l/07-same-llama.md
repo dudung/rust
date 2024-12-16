@@ -7,7 +7,7 @@ tags = ['list']
 authors = ['viridi']
 url = '24l07'
 +++
-List while assigned by same llama to visit various universities around the country.
+List of activities assigned by same llama to visit various universities around the country.
 
 <!--more-->
 

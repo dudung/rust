@@ -11,4 +11,4 @@ Note on research projects in AP-AG related to air pollution and smart cities.
 <!--more-->
 
 + Repository [`xwtbz`](https://osf.io/xwtbz)
-+ `10-dec-2024` [`fcbhj`](https://osf.io/fcbhj) New apparatus and refs.+++
++ `10-dec-2024` [`fcbhj`](https://osf.io/fcbhj) New apparatus and refs.

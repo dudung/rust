@@ -13,11 +13,13 @@ List while assigned by same llama to visit various universities around the count
 
 List:
 
++ `Dec 2024` [`n78um`](https://osf.io/n78um) `ONL` `000-00000-0` `10xx`
+  - `31-dec-2024` `0730-0900`
 + `Aug 2024` [`su2pr`](https://osf.io/su2pr) `SBY` `451-45201-1` `1110`
 + `Jul 2024` [`gw2eb`](https://osf.io/gw2eb) `PAD` `434-45102-2` `1111`
 + `Jun 2024` [`c4s9t`](https://osf.io/c4s9t) `SMG` `411-54141-2` `1111`
 + `Apr 2024` [`unf34`](https://osf.io/unf34) `DPK` `351-28001-3` `1111`
-+ `Feb 2024` [`azmpw`](https://osf.io/azmpw) `ONL` `000-00000-0` `0000`
++ `Feb 2024` [`azmpw`](https://osf.io/azmpw) `ONL` `000-00000-0` `11xx`
 
 Notes:
 

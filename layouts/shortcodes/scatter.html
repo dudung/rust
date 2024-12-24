@@ -1,15 +1,25 @@
-{{ $w := default "80" (.Get 0) }}
-{{ $h := default "300" (.Get 1) }}
 {{ $r := ( .Inner | chomp) }}
 {{ $seed := "foo" }}
 {{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
 
-<div style="width: {{ $w }}%; height: {{ $h }}px; margin: 0 auto">
+<div class="scatter-container">
     <canvas id="{{ $id }}"></canvas>
 </div>
 
 
 <script>
+const container = document.querySelector('.scatter-container');
+const computedStyle = getComputedStyle(container);
+const height = computedStyle.getPropertyValue('--height').trim();
+const tempElement = document.createElement('div');
+tempElement.style.position = 'absolute';
+tempElement.style.visibility = 'hidden';
+tempElement.style.height = height;
+document.body.appendChild(tempElement);
+const resolvedHeight = parseFloat(getComputedStyle(tempElement).height);
+document.body.removeChild(tempElement);
+fs = 0.05 * resolvedHeight;
+
 var r = {{ ( .Inner | chomp) }};
 var eol = getEOL(r);
 var blocks = getBlocks(r, eol);
@@ -38,13 +48,38 @@ for(b of blocks) {
             position: 'bottom',
             title: {
               display: true,
-              text: B_XLABEL
+              text: B_XLABEL,
+              font: {
+                size: fs
+              }
+            },
+            ticks: {
+              font: {
+                size: fs
+              }
             }
           },
           y: {
             title: {
               display: true,
-              text: B_YLABEL
+              text: B_YLABEL,
+              font: {
+                size: fs
+              }
+            },
+            ticks: {
+              font: {
+                size: fs
+              }
+            }
+          }
+        },
+        plugins: {
+          legend: {
+            labels: {
+              font: {
+                size: fs
+              }
             }
           }
         }

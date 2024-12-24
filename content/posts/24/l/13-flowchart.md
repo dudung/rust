@@ -25,7 +25,7 @@ flowchart LR
   O[/"Output"/]
   E(["End"])
 {{< /mermaid >}}
-+ Common shapes are Begin / End, Input / Output, Condition, and Process.
++ Shapes are begin/end, I/O, condition, process.
 
 {{< ref >}}
 Maciej Duraj, "Basic overview of creating flowcharts using Mermaid", CKEditor, 8 Mar 2000, {{< url "https://ckeditor.com/blog/basic-overview-of-creating-flowcharts-using-mermaid/" >}} [20241222].

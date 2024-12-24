@@ -147,3 +147,6 @@ html, body {
 .slide-content pre > code {
   font-size: calc(0.032 * var(--height));
 }
+
+.mermaid {
+}

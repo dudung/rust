@@ -6,6 +6,7 @@
 <body>
   <header>
     {{ if and (ne .Type "xpage") (ne .Type "xdeck") }}
+      <link rel="stylesheet" href="/rust/css/header.css?v={{ now.Unix }}">
       {{ partial "header.html" . }}
     {{ end }}
     
@@ -19,6 +20,7 @@
   </main>
   <footer>
     {{ if and (ne .Type "xpage") (ne .Type "xdeck") }}
+      <link rel="stylesheet" href="/rust/css/footer.css?v={{ now.Unix }}">
       {{ partial "footer.html" . }}
     {{ end }}
   </footer>

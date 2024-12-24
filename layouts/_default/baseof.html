@@ -5,7 +5,9 @@
 </head>
 <body>
   <header>
-    {{ partial "header.html" . }}
+    {{ if and (ne .Type "xpage") (ne .Type "xdeck") }}
+      {{ partial "header.html" . }}
+    {{ end }}
     
     {{ if .HasShortcode "scatter" }}
       {{ partial "script/inner.html" . }}
@@ -16,7 +18,9 @@
     {{ block "main" . }}{{ end }}
   </main>
   <footer>
-    {{ partial "footer.html" . }}
+    {{ if and (ne .Type "xpage") (ne .Type "xdeck") }}
+      {{ partial "footer.html" . }}
+    {{ end }}
   </footer>
 
   {{ if .HasShortcode "mermaid" }}

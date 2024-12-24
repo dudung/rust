@@ -8,7 +8,7 @@ tags = ['slide-lib']
 authors = ['viridi']
 math = true
 url = '24l24'
-pages = ['24l08', '24l09', '24l11', '24l12', '24l13', '24l14']
+pages = ['24l17', '24l18', '24l19', '24l21', '24l22', '24l23']
 +++
 <!--more-->
 

@@ -189,3 +189,38 @@ pre>code {
   #color: #888; /* Subtle color */
   padding: 0 5px; /* Optional padding */
 }
+
+
+/* Style for table */
+table {
+  /* No gaps between borders */
+  border-collapse: collapse;
+  /* No spacing between cells */
+  border-spacing: 0;
+}
+
+table th {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 8px;
+  background-color: #f2f2f2;
+}
+
+table td {
+  /* Padding top/bottom right/left */
+  padding: 0.25em 0.5em;
+}
+
+table tr:last-child td {
+  border-bottom: 1px solid #000;
+}
+
+table tr:nth-child(odd) {
+  /* White for even rows */
+  background-color: #ffffff;
+}
+
+table tr:nth-child(even) {
+  /* Light gray for odd rows */
+  background-color: #f2f2f2;
+}

@@ -11,7 +11,7 @@ Note on research projects in MM-AG related to nano-fiber, I-V meter, and instrum
 
 <!--more-->
 
-+ Repository [`6ugk3`](https://osf.io/6ugk3)
++ `20-dec-2024` [`ks58t`](https://osf.io/ks58t) Direction, submitted paper + cover letter examples.
 + `10-dec-2024` [`fcbhj`](https://osf.io/fcbhj) New apparatus and refs.
   - A. Celzard, J.F. Mareche, F. Payot, G. Furdin, "Electrical conductivity of carbonaceous powders", Carbon, vol 40, no 15, pp 2801-2815, 2002, url https://doi.org/10.1016/S0008-6223(02)00196-3. [`tfahk`](https://osf.io/tfahk)
   - J. M. Montes, F. G. Cuevas, J. Cintas, J. M. Gallardo, "Electrical conductivity of metal powder aggregates and sintered compacts", Journal of Materials Science, vol 51, no, pp 822-835, Jan 2016, url https://doi.org/10.1007/s10853-015-9405-2. [`u7zka`](https://osf.io/u7zka)

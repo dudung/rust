@@ -14,3 +14,4 @@ No | Feature | Proposed | Start | End | Progress | Note
 -: | :- | :-: | :-: | :-: | :-: | :-:
 0 | Thought search + filter   | `24-dec-2024` | - | - | 0% | -
 1 | Summary + details | `27-dec-2024` | - | - | 0% | -
+2 | Two-colums content | `28-dec-2024` | - | - | 0% | -

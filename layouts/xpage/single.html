@@ -1,0 +1,21 @@
+{{ define "main" }}
+  {{ if eq .Type "xpage" }}
+    <head>
+      <link rel="stylesheet" href="/rust/css/xpage.css?v={{ now.Unix }}">
+    </head>
+  {{ end }}
+  
+  <div class="slide-container">
+    <h1 class="slide-title">{{ .Title }}</h1>
+    <div class="slide-content">
+      {{ .Content }}
+    </div>
+    <div class='slide-left-rect'></div>
+    <div class="slide-date">
+      <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}">
+        {{ .Date | time.Format "2006-01-02" }}
+      </time>
+      </div>
+  </div>
+  {{ partial "posts/math.html" . }}
+{{ end }}

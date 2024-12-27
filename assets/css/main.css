@@ -7,21 +7,6 @@ body {
   text-align: justify;
 }
 
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
-}
-
-/* to overwrite header border-bottom style */
-.homepage-header {
-  border-bottom: 0px solid #222;
-}
-
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
-}
-
 a {
   color: #00e;
   text-decoration: none;
@@ -131,35 +116,6 @@ figure.authors {
   color: #faa;
 }
 
-table {
-  //width: 100%;
-  border-collapse: collapse; /* Ensures there are no gaps between borders */
-  border-spacing: 0; /* Removes any spacing between cells */
-}
-
-table th {
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
-  padding: 8px;
-  background-color: #f2f2f2;
-}
-
-table td {
-  padding-right: 2em;
-}
-
-table tr:last-child td {
-  border-bottom: 1px solid #000;
-}
-
-table tr:nth-child(odd) {
-  background-color: #ffffff; /* White for even rows */
-}
-
-table tr:nth-child(even) {
-  background-color: #f2f2f2; /* Light gray for odd rows */
-}
-
 .homepage-posts-box {
   display: inline-block;
   padding: 4px 16px;
@@ -232,4 +188,39 @@ pre>code {
   font-size: 0.8rem; /* Smaller font size */
   #color: #888; /* Subtle color */
   padding: 0 5px; /* Optional padding */
+}
+
+
+/* Style for table */
+table {
+  /* No gaps between borders */
+  border-collapse: collapse;
+  /* No spacing between cells */
+  border-spacing: 0;
+}
+
+table th {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 8px;
+  background-color: #f2f2f2;
+}
+
+table td {
+  /* Padding top/bottom right/left */
+  padding: 0.25em 0.5em;
+}
+
+table tr:last-child td {
+  border-bottom: 1px solid #000;
+}
+
+table tr:nth-child(odd) {
+  /* White for even rows */
+  background-color: #ffffff;
+}
+
+table tr:nth-child(even) {
+  /* Light gray for odd rows */
+  background-color: #f2f2f2;
 }

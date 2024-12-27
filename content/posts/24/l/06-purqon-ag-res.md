@@ -10,6 +10,8 @@ Note on research projects in AP-AG related to air pollution and smart cities.
 
 <!--more-->
 
++ `27-dec-2024` [`yp8kf`](https://osf.io/yp8kf) Report of returning budget.
 + `26-dec-2024` [`a9dzh`](https://osf.io/a9dzh) Info two months return after tax.
++ `16-dec-2024` [`hcnxr`](https://osf.io/hcnxr) Permit for AWS training on Trainocate.
 + `10-dec-2024` [`4bqj6`](https://osf.io/4bqj6) Budget allocation.
 + `20-may-2024` [`xwtbz`](https://osf.io/xwtbz) Repository on OSF.

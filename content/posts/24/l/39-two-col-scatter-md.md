@@ -1,5 +1,5 @@
 +++
-title = 'two-col md scatter'
+title = 'two-col scatter md'
 date = '2024-12-28T07:33:26+07:00'
 draft = false
 type = 'xpage'

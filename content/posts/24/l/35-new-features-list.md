@@ -15,5 +15,7 @@ No | Feature | Proposed | Start | End | Progress | Note
 0 | Thought search + filter   | `24-dec-2024` | - | - | 0% | -
 1 | Summary + details | `27-dec-2024` | - | - | 0% | -
 2 | Two-colums md + eqn | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l38" "24l38" >}}
-3 | Two-colums md + scatter | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l39" "24l39" >}}
-4 | Two-colums md + flowchart | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l40" "24l40" >}}
+3 | Two-colums scatter + md | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l39" "24l39" >}}
+4 | Two-colums flowchart + md | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l40" "24l40" >}}
+4 | Two-colums scatter + flowchart | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l41" "24l41" >}}
+5 | Two-colums code + result | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l42" "24l42" >}}

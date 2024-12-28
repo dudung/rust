@@ -32,6 +32,13 @@
   }
 }
 
-.column-left pre code {
+.column-left pre code,
+.column-right pre code {
+  font-size: 0.5338em;
 }
 
+.column-left .highlight pre {
+  #border: 1px red solid;
+  #background: blue !important;
+  padding: 0.3em 0.5em !important;
+}

@@ -1,16 +1,36 @@
 +++
-title = 'two-col md flowchart'
-date = '2024-12-28T07:43:27+07:00'
+title = 'two-col scatter flowchart'
+date = '2024-12-28T08:54:42+07:00'
 draft = false
 type = 'xpage'
 tags = ['shortcode']
 authors = ['viridi']
 math = true
-url = '24l40'
+url = '24l41'
 +++
 <!--more-->
 
 {{< twocolumn >}}
+{{< scatter >}}
+B_XLABEL x
+B_YLABEL y
+B_SLABEL Data-1
+B_PCOLOR #68c
+B_PRADII 7
+B_LVISIB true
+B_LCOLOR #ddf
+
+2, 5
+3, 0
+4, -3
+5, -4
+6, -3
+7, 0 
+8, 5
+{{< /scatter >}}
+{{< /twocolumn >}}
+
+{{< twocolumn col="right" >}}
 {{< mermaid >}}
 flowchart LR
   B --> I --> C
@@ -31,18 +51,8 @@ flowchart LR
   o1b(("1"))
   o2b(("2"))
 {{< /mermaid >}}
-
-{{< /twocolumn >}}
-
-{{< twocolumn col="right" markdown="yes" >}}
-+ Shapes are
-  - begin / end,
-  - input / output,
-  - condition,
-  - processes,
-  - 0 1 2 3 4 5 6 7 8 9 a b c d e f.
 {{< /twocolumn >}}
 
 {{< ref >}}
-Maciej Duraj, "Basic overview of creating flowcharts using Mermaid", CKEditor, 8 Mar 2000, {{< url "https://ckeditor.com/blog/basic-overview-of-creating-flowcharts-using-mermaid/" >}} [20241222].
+Author, "Title", Source, Date, {{< url "https://url.com" >}} [20241124]
 {{< /ref >}}

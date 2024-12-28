@@ -132,7 +132,7 @@ html, body {
   margin: auto;
   position: relative;
   left: calc(0.05 * var(--height));
-  width: min(calc(1.55 * var(--height)), 100%);
+  width: min(calc(1.55 * var(--height)), 95%);
   height: calc(0.65 * var(--height));
   #transform: scale(0.5);
 }

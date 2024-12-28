@@ -11,7 +11,7 @@ ignoreErrors = ['error-missing-instagram-accesstoken']
 # paginate = 16
 
 [pagination]
-pagerSize = 16
+pagerSize = 20
 
 [taxonomies]
   author = "authors"

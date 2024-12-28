@@ -19,3 +19,5 @@ No | Feature | Proposed | Start | End | Progress | Note
 4 | Two-colums flowchart + md | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l40" "24l40" >}}
 4 | Two-colums scatter + flowchart | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l41" "24l41" >}}
 5 | Two-colums code + result | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l42" "24l42" >}}
+6 | Two-colums md-eqn + code | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l43" "24l43" >}}
+7 | Two-colums result + code | `28-dec-2024` | `28-dec-2024` | `28-dec-2024` | 100% | {{< url "../24l44" "24l44" >}}

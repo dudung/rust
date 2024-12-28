@@ -1,0 +1,18 @@
+.column-left {
+  border: 1px solid #4f81bd;
+  width: 50%;
+  height: 100%;
+  float: left;
+  font-size: 80%;
+}
+.column-right {
+  border: 1px solid #4f81bd;
+  width: 49%;
+  height: 100%;
+  float: right;
+  font-size: 80%;
+}
+
+.column-left pre code {
+}
+

@@ -2,6 +2,9 @@
   {{ if eq .Type "xpage" }}
     <head>
       <link rel="stylesheet" href="/rust/css/xpage.css?v={{ now.Unix }}">
+      {{ if in .RawContent "{{< twocolumn" }}
+      <link rel="stylesheet" href="{{ "css/twocolumn.css" | relURL }}">
+      {{ end }}
     </head>
   {{ end }}
   

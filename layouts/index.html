@@ -23,7 +23,8 @@
       {{ else }}
         {{ $filteredPages = where .Site.RegularPages (printf "Params.%s" $key) "intersect" (slice $value) }}
       {{ end }}
-
+      
+      {{ $filteredPages = .Site.RegularPages }}
       {{ $paginator := .Paginate $filteredPages }}
       {{ range $paginator.Pages }}
       

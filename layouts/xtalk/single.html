@@ -1,0 +1,44 @@
+{{ define "main" }}
+  {{ if eq .Type "xtalk" }}
+    <head>
+      <link rel="stylesheet" href="/rust/css/xtalk.css?v={{ now.Unix }}">
+    </head>
+  {{ end }}
+  
+  <div class="slide-container">
+    <h1 class="slide-title">{{ .Title }}</h1>
+    <div class='slide-rect'></div>
+
+{{ if .Params.decks }}
+  <ul class="list-of-pages">
+    {{ range .Params.decks }}
+      {{ $matchingDecks := where site.RegularPages "Params.url" . }}
+      {{ $deck := index $matchingDecks 0 }}
+      {{ if $deck }}
+        <li>
+          <code style='font-size:60%;'>{{ $deck.Params.url }}</code>
+          <a href="{{ $deck.Permalink }}">{{ $deck.Title }}</a>
+          <!--p>{{ $deck.Content | safeHTML }}</p-->
+        </li>
+      {{ else }}
+        <li>
+          <p>Deck with URL "{{ . }}" not found.</p>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>No decks found for this deck.</p>
+{{ end }}
+
+    <div class="slide-content">
+      {{ .Content }}
+    </div>
+    <div class="slide-date">
+      <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}">
+        {{ .Date | time.Format "2006-01-02" }}
+      </time>
+      </div>
+  </div>
+  {{ partial "posts/math.html" . }}
+{{ end }}

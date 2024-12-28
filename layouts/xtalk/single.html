@@ -31,6 +31,17 @@
   <p>No decks found for this deck.</p>
 {{ end }}
 
+
+    <div class="author-container">
+    {{- range .Params.authors }}
+      {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+        <span class="author">
+          <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+        </span>
+      {{ end }}
+    {{ end }}
+    </div>
+
     <div class="slide-content">
       {{ .Content }}
     </div>

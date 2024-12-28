@@ -18,6 +18,20 @@
   transform: scale(0.9, 0.8);
 }
 
+.column-left ul li ul li,
+.column-right ul li ul li {
+  font-size: 90%;
+  line-height: 100%;
+}
+
+.column-left .mermaid,
+.column-right .mermaid {
+  transform: translate(1em, 0);
+  svg {
+    max-width: none !important;
+  }
+}
+
 .column-left pre code {
 }
 

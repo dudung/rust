@@ -1,8 +1,8 @@
 +++
-title = 'two-col md-eqn code'
+title = '2c md-eqn code'
 date = '2024-12-28T09:38:15+07:00'
 type = 'xpage'
-tags = ['shortcode']
+tags = ['shortcode', 'two-col']
 authors = ['viridi']
 math = true
 url = '24l43'

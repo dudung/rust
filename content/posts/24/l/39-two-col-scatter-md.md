@@ -1,9 +1,9 @@
 +++
-title = 'two-col scatter md'
+title = '2c scatter md'
 date = '2024-12-28T07:33:26+07:00'
 draft = false
 type = 'xpage'
-tags = ['shortcode']
+tags = ['shortcode', 'two-col']
 authors = ['viridi']
 math = true
 url = '24l39'

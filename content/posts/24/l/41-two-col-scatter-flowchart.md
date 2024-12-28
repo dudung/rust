@@ -1,9 +1,9 @@
 +++
-title = 'two-col scatter flowchart'
+title = '2c scatter flowchart'
 date = '2024-12-28T08:54:42+07:00'
 draft = false
 type = 'xpage'
-tags = ['shortcode']
+tags = ['shortcode', 'two-col']
 authors = ['viridi']
 math = true
 url = '24l41'

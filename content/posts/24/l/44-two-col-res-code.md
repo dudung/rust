@@ -1,9 +1,9 @@
 +++
-title = 'two-col res code'
+title = '2c res code'
 date = '2024-12-28T09:48:16+07:00'
 draft = false
 type = 'xpage'
-tags = ['shortcode']
+tags = ['shortcode', 'two-col']
 authors = ['viridi']
 math = true
 url = '24l44'

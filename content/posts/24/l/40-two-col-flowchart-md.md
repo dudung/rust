@@ -1,9 +1,9 @@
 +++
-title = 'two-col flowchart md'
+title = '2c flowchart md'
 date = '2024-12-28T07:43:27+07:00'
 draft = false
 type = 'xpage'
-tags = ['shortcode']
+tags = ['shortcode', 'two-col']
 authors = ['viridi']
 math = true
 url = '24l40'

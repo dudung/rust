@@ -24,8 +24,8 @@ pagerSize = 20
   identifier = 'home'
   url = '/'
 
-#[[menu.main]]
-#  name = 'Tags'
-#  weight = 1
-#  identifier = 'tags'
-#  url = '/tags'
+[[menu.main]]
+  name = 'OSF'
+  weight = 1
+  identifier = 'osf'
+  url = '/tags/osf'

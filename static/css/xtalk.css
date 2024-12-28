@@ -47,9 +47,9 @@ html, body {
 
 .slide-subtitle {
   position: absolute;
-  top: calc(0.2 * var(--height));
+  top: calc(0.23 * var(--height));
   height: calc(0.27 * var(--height));
-  font-size: calc(0.09 * var(--height));
+  font-size: calc(0.08 * var(--height));
   font-weight: normal;
   color: #ddd;
   /* border: 1px solid red; */
@@ -103,11 +103,11 @@ html, body {
 .slide-date {
   width: calc(0.2 * var(--height));
   padding: calc(0.01 * var(--height)) calc(0.05 * var(--height));
-  font-size: calc(0.04 * var(--height));
+  font-size: calc(0.03 * var(--height));
   color: #888;
   position: absolute;
   left: calc(50% - calc(0.12 * var(--height)));
-  top: calc(0.9 * var(--height));
+  top: calc(0.92 * var(--height));
 }
 
 .slide-ref {
@@ -185,8 +185,8 @@ html, body {
 
 .author-container {
   /* border: 1px red solid; */
-  position: relative;
-  top: calc(0.32 * var(--height));
+  position: absolute;
+  top: calc(0.57 * var(--height));
   left: calc(0.05 * var(--height));
   width: calc(1.65 * var(--height));
 }

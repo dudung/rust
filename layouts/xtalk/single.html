@@ -29,7 +29,9 @@
     {{ end }}
   </ul>
 {{ else }}
-  <p>No decks found for this deck.</p>
+  {{ if not (in .Params.tags "osf") }}
+    <p>No decks found for this talk.</p>
+  {{ end }}
 {{ end }}
 
 

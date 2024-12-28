@@ -7,6 +7,7 @@
   
   <div class="slide-container">
     <h1 class="slide-title">{{ .Title }}</h1>
+    <h2 class="slide-subtitle">{{ .Params.subtitle }}</h2>
     <div class='slide-rect'></div>
 
 {{ if .Params.decks }}
@@ -42,6 +43,14 @@
     {{ end }}
     </div>
 
+    <div class="version-link-container">
+      <span class="version">{{ .Params.version }}</span>
+      |
+      <span class="link">
+        <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+      </span>
+    </div>
+    
     <div class="slide-content">
       {{ .Content }}
     </div>

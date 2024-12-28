@@ -32,23 +32,33 @@ html, body {
 
 .slide-title {
   position: absolute;
-  top: calc(0.465 * var(--height));
+  top: calc(0.045 * var(--height));
   height: calc(0.27 * var(--height));
-  font-size: calc(0.11 * var(--height));
+  font-size: calc(0.13 * var(--height));
   font-weight: normal;
-  color: #fff;
-  #border: 1px solid white;
+  color: #000;
+  /* border: 1px solid red; */
   width: var(--width);
   padding-right: calc(0.08 * var(--height)); 
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   box-sizing: border-box;
 }
 
-<div style="width: 300px; padding-right: 20px; border: 1px solid black; display: flex; justify-content: flex-end;">
-  This is some text.
-</div>
-
+.slide-subtitle {
+  position: absolute;
+  top: calc(0.2 * var(--height));
+  height: calc(0.27 * var(--height));
+  font-size: calc(0.09 * var(--height));
+  font-weight: normal;
+  color: #ddd;
+  /* border: 1px solid red; */
+  width: var(--width);
+  padding-right: calc(0.08 * var(--height)); 
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
 
 .slide-content {
   text-align: left;
@@ -86,7 +96,7 @@ html, body {
   left: 0;
   width: calc(16/9 * var(--height));
   height: calc(0.27 * var(--height));
-  background: #4f81bd;  
+  background: #4f81bd;
   z-index: -1;
 }
 
@@ -160,6 +170,8 @@ html, body {
 }
 
 .list-of-pages {
+  /* border: 1px solid blue; */
+  visibility: hidden;
   list-style-type: none;
   text-align: left;
   font-size: calc(0.075 * var(--height));
@@ -167,4 +179,63 @@ html, body {
     display: inline-block;
     padding-left: calc(0.04 * var(--height));
   }
+  top: calc(0.31 * var(--height));
+  position: relative;
+}
+
+.author-container {
+  /* border: 1px red solid; */
+  position: relative;
+  top: calc(0.32 * var(--height));
+  left: calc(0.05 * var(--height));
+  width: calc(1.65 * var(--height));
+}
+
+.author {
+  /* border: 1px blue solid; */
+  padding: 0 0.1em 0 0;
+  a {
+    font-size: calc(0.055 * var(--height));
+    color: white;
+  }
+}
+
+.author:not(:last-child):after {
+    content: ', ';
+    color: white;
+    margin-left: -0.1em;
+    font-size: calc(0.05 * var(--height));
+}
+
+.version-link-container {
+  /* border: 1px red solid; */
+  position: absolute;
+  top: calc(0.69 * var(--height));
+  left: calc(0.05 * var(--height));
+  color: white;
+  font-size: calc(0.04 * var(--height));
+}
+
+.link a {
+  /*
+  border: 1px red solid;
+  position: abosulete;
+  top: calc(0.3 * var(--height));
+  left: calc(0.05 * var(--height));
+  width: calc(1.65 * var(--height));
+  font-size: calc(0.04 * var(--height));
+  */
+  color: white;
+}
+
+.version {
+  /*
+  border: 1px red solid;
+  position: abosulete;
+  top: calc(0.29 * var(--height));
+  left: calc(0.05 * var(--height));
+  width: calc(1.65 * var(--height));
+  color: white;
+  font-size: calc(0.04 * var(--height));
+  */
 }

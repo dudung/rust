@@ -1,5 +1,5 @@
 +++
 name = 'Nein Arimasen'
-twitter = '@nainarimasen'
+twitter = '@neinarimasen'
 +++
 Nein Arimasen is a N/A humanoid.

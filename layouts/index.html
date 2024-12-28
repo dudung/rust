@@ -6,17 +6,25 @@
       {{ end }}
     </header>
     <div class="homepage-content">
-      <!-- Note that the content for index.html,
-      as a sort of list page, will pull from
-      content/_index.md -->
       {{ .Content }}
     </div>
+
+    {{ $key := "type" }}
+    {{ $value := "xpage" }}
+    {{ $paramskey := (printf "Params.%s" $key) }}
     
-    {{ $max := len .Site.RegularPages }}
-    {{ $index :=  sub $max 1 }}
-    
+    <!--
+    url https://chatgpt.com/share/676fcffa-931c-800a-8ae9-3363762a8316 [20241228].
+    -->
     <div class="posts-box-container">
-      {{ $paginator := .Paginate .Site.RegularPages }}
+      {{ $filteredPages := .Site.RegularPages }}
+      {{ if in (slice "type" "title" "date") $key }}
+        {{ $filteredPages = where .Site.RegularPages $paramskey "in" (slice $value) }}
+      {{ else }}
+        {{ $filteredPages = where .Site.RegularPages (printf "Params.%s" $key) "intersect" (slice $value) }}
+      {{ end }}
+
+      {{ $paginator := .Paginate $filteredPages }}
       {{ range $paginator.Pages }}
       
         <div class="homepage-posts-box">
@@ -26,7 +34,6 @@
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </div>
       
-        {{ $index = sub $index 1 }}
       {{ end }}
     </div>
 
@@ -55,5 +62,6 @@
         {{ end }}
       </div>
     </div>
+
   </main>
 {{ end }}

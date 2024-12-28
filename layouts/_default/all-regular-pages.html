@@ -1,0 +1,11 @@
+<h1>{{ .Params.title }}</h1>
+
+<ul style="list-style-type: none;">
+  {{ range .Site.RegularPages }}
+    {{ if not .Params.categories }}
+      <li style="display: inline-block; border: 0px black solid; margin: 0.15em 0.02em; padding: 0.1em 0.5em; border-radius: 6px; background: #4f81bd;">
+        <a style="text-decoration: none; color: #fff; font-size: 90%;" href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>

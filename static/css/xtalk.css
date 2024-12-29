@@ -51,7 +51,7 @@ html, body {
   height: calc(0.27 * var(--height));
   font-size: calc(0.064 * var(--height));
   font-weight: normal;
-  color: #ddd;
+  color: #ccc;
   /* border: 1px solid red; */
   width: var(--width);
   padding-right: calc(0.08 * var(--height)); 

@@ -47,7 +47,7 @@ html, body {
 
 .slide-subtitle {
   position: absolute;
-  top: calc(0.23 * var(--height));
+  top: calc(0.19 * var(--height));
   height: calc(0.27 * var(--height));
   font-size: calc(0.064 * var(--height));
   font-weight: normal;

@@ -34,7 +34,7 @@ html, body {
   position: absolute;
   top: calc(0.045 * var(--height));
   height: calc(0.27 * var(--height));
-  font-size: calc(0.13 * var(--height));
+  font-size: calc(0.120 * var(--height));
   font-weight: normal;
   color: #000;
   /* border: 1px solid red; */

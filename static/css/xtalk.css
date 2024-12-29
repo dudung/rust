@@ -187,7 +187,7 @@ html, body {
   /* border: 1px red solid; */
   position: absolute;
   top: calc(0.57 * var(--height));
-  left: calc(0.05 * var(--height));
+  left: calc(0.1 * var(--height));
   width: calc(1.65 * var(--height));
 }
 
@@ -211,7 +211,7 @@ html, body {
   /* border: 1px red solid; */
   position: absolute;
   top: calc(0.69 * var(--height));
-  left: calc(0.05 * var(--height));
+  left: calc(0.1 * var(--height));
   color: white;
   font-size: calc(0.04 * var(--height));
 }

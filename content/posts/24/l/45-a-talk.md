@@ -1,7 +1,7 @@
 +++
 title = 'Archiving thoughts in easy way'
 subtitle = 'Developing a note named rust with hugo'
-link = 'https://osf.io/42tq9'
+link = 'https://osf.io/pkc6z'
 version = '20241228_v0'
 date = '2024-12-28T18:57:50+07:00'
 draft = false

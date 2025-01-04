@@ -1,5 +1,5 @@
 +++
-title = 'hugo intro 1'
+title = 'hugo intro'
 date = '2025-01-05T05:32:34+07:00'
 type = 'xpage'
 tags = ['hugo']
@@ -13,5 +13,5 @@ url = '25a06'
 + It is originally developed by Steve Francia in 2013 and then continued by Bjørn Erik Pedersen as the project’s lead developer in 2015.
 
 {{< ref >}}
-Brian Li, "How To Build a Blazing Fast Static Site With Hugo", Kinsta, 25 Oct 2021 (14 Dec 2023), {{< url "https://kinsta.com/blog/hugo-static-site/" >}} [20250105].
+Brian Li, "How To Build a Blazing Fast Static Site With Hugo", Kinsta, 25 Oct 2021 (14 Dec 2023), url {{< url "https://kinsta.com/blog/hugo-static-site/" >}} [20250105].
 {{< /ref >}}

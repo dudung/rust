@@ -13,6 +13,8 @@ List of activities assigned by same llama to visit various universities around t
 
 List:
 
++ `Jan 2025` [`6v3w5`](https://osf.io/6v3w5) `OFF` `000-00000-0` `00xx`
+  - `03-jan-2025` `1100-1130`
 + `Dec 2024` [`n78um`](https://osf.io/n78um) `ONL` `000-00000-0` `10xx`
   - `31-dec-2024` `0730-0900`
 + `Aug 2024` [`su2pr`](https://osf.io/su2pr) `SBY` `451-45201-1` `1110`

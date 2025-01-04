@@ -39,3 +39,9 @@ Some tips while running Hugo with drafts and CSS modification.
   hugo server -D --environment development
 
   ```
++ Include reference as page footnote
+  ```
+  {{</* ref */>}}
+  Author, "Title", Source, dd Mmm yyyy, {{< url "https://" >}} [yyyymmdd].
+  {{</* /ref */>}}
+```
